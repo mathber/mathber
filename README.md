@@ -1,4 +1,8 @@
-## Opa, tudo certo? me chamo Matheus Bertoldo e sou estudante de Ciência da Computação na UFLA.
+## Opa, tudo certo? me chamo Matheus Bertoldo.
+
+- Atualmente, estou cursando Ciência da Computação, na Universidade Federal de Lavras(UFLA)
+- Trainee da Emakers Jr.
+
 <div align="start">
   <a href="https://github.com/mathber">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathber&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
