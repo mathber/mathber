@@ -1,5 +1,5 @@
 ## Opa, tudo certo? me chamo Matheus Bertoldo e sou estudante de Ciência da Computação na UFLA.
-<div align="center">
+<div align="start">
   <a href="https://github.com/mathber">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathber&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathber&layout=compact&langs_count=7&theme=github_dark"/>
