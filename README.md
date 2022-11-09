@@ -1,8 +1,6 @@
 ## Opa, tudo certo? me chamo Matheus Bertoldo.
 
-- Atualmente, estou cursando Ciência da Computação, na Universidade Federal de Lavras(UFLA)
-- Trainee da Emakers Jr.
-
+<h4> estou cursando Ciência da Computação, na Universidade Federal de Lavras(UFLA) </br> trainee da Emakers Jr </h4>
 </br>
 <div align="start">
   <a href="https://github.com/mathber">
