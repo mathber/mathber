@@ -1,6 +1,6 @@
-## Opa, tudo certo? me chamo Matheus Bertoldo.
+## oi, me chamo Matheus Bertoldo
 
-<h4> estou cursando Ciência da Computação, na Universidade Federal de Lavras(UFLA) </br> trainee da Emakers Jr </h4>
+<h4> cursando Ciência da Computação na UFLA </br> atualmente, voluntariado da Emakers Jr </h4>
 </br>
 <div align="start">
   <a href="https://github.com/mathber">
