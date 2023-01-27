@@ -13,6 +13,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/102258510/200687592-aee0365d-89aa-4cf2-85b8-ece6cdd50d96.png">
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 </br>
 <div>
