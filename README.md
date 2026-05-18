@@ -1,6 +1,6 @@
 ## Matheus Bertoldo
 
-<h4> Cursando Ciência da Computação na UFLA </h4>
+<h4> Bacharel em Ciência da Computação pela Universidade Federal de Lavras (UFLA) </h4>
 </br>
 <div align="start">
   <a href="https://github.com/mathber">
